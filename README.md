@@ -109,10 +109,10 @@ The dashboard fully addresses all requirements outlined in the provided problem 
 - ✅ Sales by product category and hourly performance heatmap
 
 <p align="center">
-  <img src="834a6244-6d46-4271-905b-c1a3d0f26788.png" width="400"/>
-  <img src="1fc35cb0-a4d4-4ee1-b24b-a240b6163ec2.png" width="400"/>
-  <img src="1eae972f-c9ca-41ef-bfcb-f35b5cabb374.png" width="400"/>
-  <img src="379edcec-9442-4325-9842-bd5c754cf4c6.png" width="400"/>
+  <img src="assets/problem_statement_1.png" width="400"/>
+  <img src="assets/problem_statement_2.png" width="400"/>
+  <img src="assets/problem_statement_3.png" width="400"/>
+  <img src="assets/dashboard_preview.png" width="400"/>
 </p>
 
 ---
