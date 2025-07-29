@@ -112,7 +112,7 @@ The dashboard fully addresses all requirements outlined in the provided problem 
   <img src="assets/problem_statement_1.png" width="400"/>
   <img src="assets/problem_statement_2.png" width="400"/>
   <img src="assets/problem_statement_3.png" width="400"/>
-  <img src="assets/dashboard_preview.png" width="400"/>
+  <img src="assets/Coffee Shop Sales Dashboard.png" width="400"/>
 </p>
 
 ---
